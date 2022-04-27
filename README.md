@@ -1,5 +1,7 @@
 #Project M Raw Manager
+
 Written by Samoe (John Sam Fuchs)
+
 http://samoe.me/
 
 WHAT DOES IT DO?
@@ -42,16 +44,27 @@ then when you switch versions, it will rename that file back to its original nam
 is a folder structure that has multiple .raw files :
 
  - /User/Wii
+
  ---- /import/
+ 
  ---- /meta/
+ 
  ---- /shared1/
+ 
  ---- /shared2/
+ 
  ---- /sys/
+ 
  ---- /ticket/
+ 
  ---- /title/
+ 
  ---- /tmp/
+ 
  ---- /wfs/
+ 
  ---- pplus2.9.raw
+ 
  ---- pplusFingyBuild5.01.raw
 
 If you use the launcher to run Dolphin with "pplus2.9", then the file will be renamed to "sd.raw"
