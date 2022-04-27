@@ -1,4 +1,4 @@
-#Project M Raw Manager
+# Project M Raw Manager
 
 Written by Samoe (John Sam Fuchs)
 
@@ -43,7 +43,7 @@ After the first time you use the program, it will remember which file is current
 then when you switch versions, it will rename that file back to its original name. For example, here
 is a folder structure that has multiple .raw files :
 
- - /User/Wii
+ -- /User/Wii
 
  ---- /import/
  
